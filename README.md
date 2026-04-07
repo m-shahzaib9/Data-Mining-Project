@@ -41,6 +41,13 @@ There are two folders for our images:
 * output_images
   * In this folder we are storing our segmented images
 
+## K-mean Example
+
+<img width="3572" height="1817" alt="Clustering_Example" src="https://github.com/user-attachments/assets/0290fb64-de94-4f57-a329-d01bf32cd292" />
+<img width="2487" height="1509" alt="Original Image" src="https://github.com/user-attachments/assets/da9d5ef6-6352-4728-93b9-e190f9171d22" />
+<img width="2492" height="1582" alt="Image after clustering " src="https://github.com/user-attachments/assets/ac069695-dddb-4ea5-8f8f-41a062057e01" />
+
+
 ## Project setup for clustering algos
 You need two libraries numpy and pillow. These both are included in requirements.txt file. First make virtual environment and then run the command bellow:
 
